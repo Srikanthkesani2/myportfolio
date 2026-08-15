@@ -105,7 +105,7 @@ export const projects = [
     ],
     tech: ["React.js", "TypeScript", "Supabase", "SQL", "Hugging Face"],
     image: projectFindit,
-    github: "",
+    github: "https://github.com/Srikanthkesani2/lost-and-found-match",
     demo: null,
   },
   {
@@ -121,7 +121,7 @@ export const projects = [
     ],
     tech: ["Python", "PostgreSQL", "n8n", "Groq", "Gemini"],
     image: projectRecruiter,
-    github: "",
+    github: "https://github.com/Srikanthkesani2/AI-Recuriter",
     demo: null,
   },
   {
@@ -137,7 +137,7 @@ export const projects = [
     ],
     tech: ["Python", "Flask", "SQL", "Scikit-learn", "Gemini API"],
     image: projectThreat,
-    github: "",
+    github: "https://github.com/Srikanthkesani2/Realtime-website-fraud-detection-",
     demo: null,
   },
 ];
