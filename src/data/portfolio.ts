@@ -171,13 +171,7 @@ export const journey = [
     markers: ["AI / ML", "PROJECTS", "EXPERIENCE"],
     notes: ["Tech Lead Intern at Swecha Telangana, Gachibowli, Hyderabad — November 2025."],
   },
-  { period: "2026", markers: ["LEAD", "BUILD", "COMMUNITY", "HACKATHONS"], notes: [] },
-  {
-    period: "2027",
-    markers: ["GRADUATION"],
-    upcoming: true,
-    notes: ["Expected — Complete my B.Tech in Artificial Intelligence and Machine Learning."],
-  },
+  { period: "2026", markers: ["LEAD", "BUILD", "COMMUNITY", "HACKATHONS"], notes: [] }
 ];
 
 export const communityNetwork = {
