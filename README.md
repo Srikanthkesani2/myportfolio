@@ -66,7 +66,6 @@ The visual system follows a minimal futuristic developer aesthetic:
 - Responsive navigation
 - Reusable components
 - Centralized portfolio data
-- Custom `.tech` domain support
 
 ---
 
